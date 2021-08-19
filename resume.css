@@ -118,7 +118,7 @@ td
 {
     font-weight:bold;
     }
-.circular--square {
+#circular--square {
   border-top-left-radius: 50% 50%;
   border-top-right-radius: 50% 50%;
   border-bottom-right-radius: 50% 50%;
